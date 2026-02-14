@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5000;
 // OpenAI 사용 못할 경우에 fallback
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-// Product 수동 입력 
+// Product 수동 입력 iHerb data 기반
 const PRODUCTS = {
   "Sports Research": {
     brand: "Sports Research",
