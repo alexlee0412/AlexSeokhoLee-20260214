@@ -1,3 +1,20 @@
+## 🚀 배포 링크
+
+- Frontend (Netlify): https://ainutritionistmvp.netlify.app/
+- Backend (Render): https://ainutritionistmvp.onrender.com
+
+## 🧪 로컬 실행
+
+### Backend
+cd backend
+npm install
+node server.js
+
+### Frontend
+cd frontend
+npm install
+npm run dev
+
 ## ⚠️ 데이터 및 AI 처리 관련 안내
 
 ### 1. 크롤링
