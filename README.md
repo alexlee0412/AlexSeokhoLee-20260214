@@ -1,6 +1,6 @@
 ## 🚀 배포 링크
 
-- Frontend (Netlify): https://ainutritionistmvp.netlify.app/
+- Frontend (Netlify): https://ainutritionistmvp.netlify.app
 - Backend (Render): https://ainutritionistmvp.onrender.com
 
 ## 🧪 로컬 실행
